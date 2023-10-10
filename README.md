@@ -8,8 +8,8 @@ Valid identifiers in python are defined as follows:
       Can’t use special symbols like !,#,@,%,$ etc
       Can't use keywords.
 
-##Python Solution
+## Python Solution
 Contains a function that tokenizes an input to check for any reserved words. Also contains the main function that matches the input to a regex with the specifications for a valid identifier.
 
-##Flex file
+## Flex file
 Containes a function to identify whether an input is a keyword. Also has rules matching the valid and invalid idenifiers.
